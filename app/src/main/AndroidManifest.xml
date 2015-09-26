@@ -27,6 +27,10 @@
             android:name=".SmsRecieve"
             android:label="@string/title_activity_sms_recieve" >
         </activity>
+        <activity
+            android:name=".ContactListActivity"
+            android:label="@string/title_activity_contact_list" >
+        </activity>
     </application>
 
 </manifest>

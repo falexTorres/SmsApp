@@ -23,5 +23,12 @@
         android:text="Show Message"
         android:onClick="toMessages"/>
 
+    <Button
+        android:id="@+id/showContacts"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show Contacts"
+        android:onClick="toContacts"/>
+
 
 </LinearLayout>
